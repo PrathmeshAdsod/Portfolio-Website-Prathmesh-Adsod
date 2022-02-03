@@ -7,15 +7,16 @@ nav {
     background-color: #ffffff;
 }
 
-body{
-    background-color: #C5C5C5;
-}
 
 #navtoggler li a {
     color: rgb(0, 0, 0);
 }
 #navtoggler li a:hover{
     color: #00c1f1;
+}
+
+.my-images img{
+    height: 600px;
 }
 
 .custom-back{
@@ -49,7 +50,12 @@ body{
     
 }
 
+footer {
+    background-color: #8BC6EC;
+background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+    height: 100%;
+    margin-bottom: 0;
+}
 .footer-icons .fab{
-    color: #1298F6;
-    
+    color: #1298F6;   
 }
